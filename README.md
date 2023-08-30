@@ -1,5 +1,6 @@
 -  Hi, I’m @JalilAhmadi
--  I’m interested in ecology
+-  interested in ecology
+-  Ph.D. student in Rangeland sciences @University of Tehran
 - 🌱 I’m currently learning machine learning algorithm
 
 
